@@ -12,8 +12,10 @@ function m(){
                 text.innerText="too high.. gess again";
             }else if(gess<systemNuber){        
                 text.innerText="too low.. gess again";
-            }else{
+            }else if(gess===10){
             text.innerText="congratulation..you are a winner";
+            }else{
+                text.innerText="invalid input";
             }              
     }        
 

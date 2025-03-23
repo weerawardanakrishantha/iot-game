@@ -5,15 +5,15 @@
     border-radius: 8px;
     font-size: 25px;
     color: rgb(140, 68, 92);   
-    margin-top: 260px; 
-    margin-left: 400px;
+    margin-top: 10px; 
+    margin-left: 450px;
 }
 .btn{
     width: 100px;
     height: 60px;
     border-radius: 10px;
     background-color: rgb(110, 110, 217);
-    margin-top: 260px;
+    margin-top: 10px;
     margin-left: 10px;
 }
 .h{
@@ -21,5 +21,13 @@
     font-size: 35px;
     color: brown;
     font-weight: 700;
-    margin-left: 400px;
+    margin-left: 450px;
+}
+.h1{
+    font-size: 60px;
+    color: rgb(229, 63, 63);
+    font-weight: 800;
+    font-family: sans-serif;
+    margin-left: 350px;
+    margin-top: 200px;
 }
